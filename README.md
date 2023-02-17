@@ -2,6 +2,15 @@
 ## <a href="https://itmo-travell.vercel.app">itmo-travell.vercel.app</a>
 
 
+
+
+https://user-images.githubusercontent.com/114396404/219663099-c05d1f3c-0e17-4577-a35c-41b1147331e5.mp4
+
+
+
+
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
